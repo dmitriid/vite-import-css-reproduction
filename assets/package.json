@@ -1,0 +1,15 @@
+{
+  "name": "vite-import-css-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "watch": "vite build --watch --minify false --emptyOutDir false --clearScreen false --mode development"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^2.3.1"
+  }
+}
